@@ -1,5 +1,4 @@
 mountpoints:
-  #/: https://drive.google.com/drive/folders/1OulF2dpGr3f_1YVlRpuzhyVuQKCHOc1k 
   /:
     url: https://author-p53804-e346897.adobeaemcloud.com/bin/franklin.delivery/saharan1708/xwalk03/main
     type: markup
